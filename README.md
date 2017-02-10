@@ -1,6 +1,6 @@
 # ledger-fx-rates
 
-Render [current foreign exchange rates](https://www.ecb.europa.eu/stats/exchange/eurofxref/html/index.en.html) from the European Central Bank as [ledger market values](www.ledger-cli.org/3.0/doc/ledger3.html#Commodities-and-Currencies).
+Render [current foreign exchange rates](https://www.ecb.europa.eu/stats/exchange/eurofxref/html/index.en.html) from the European Central Bank as [ledger market values](http://www.ledger-cli.org/3.0/doc/ledger3.html#Commodities-and-Currencies).
 
 **ledger-fx-rates** output is compatible with any software that uses the ledger journal format, including [hledger](http://hledger.org/).
 
